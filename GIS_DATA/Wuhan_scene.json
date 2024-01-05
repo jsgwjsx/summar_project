@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "木兰草原·三台山·木兰天池",
+          "level": 1,
+          "id": "10000",
+          "imgurl": "https://whmlcy.net/upload/images/20211102/eccfc0e23c57b509955254eba6db68aa.jpg",
+          "homepage":"https://whmlcy.net/index/page/7.html",
+          "introduce":"木兰草原位于湖北省武汉市黄陂区王家河街道聂家岗，在木兰山东面、胜天农庄南面，属“木兰八景”之一，规划面积20000多余亩，分为草原风情旅游区和休闲度假区，融草原风情观光、户外拓展、水上游乐、商务会议、休闲度假为一体，是华中地区唯一的以草原风情为主题的5A级景区。木兰草原距武汉市城区36公里，最近的高速出口12公里，交通便捷。"
+        },
+        "geometry": { "type": "Point", "coordinates": [114.381569, 31.10898]}
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "武汉东湖·东湖之眼摩天轮·武汉植物园·磨山景区",
+          "level": 2,
+          "id": "10001",
+          "homepage":"https://www.donghulvdao.com/index.php?m=home&c=Lists&a=index&tid=10",
+          "imgurl":"https://www.donghulvdao.com/uploads/allimg/20230805/1-230P5155432300.jpg",
+          "introduce":"武汉东湖生态旅游风景区，简称东湖风景区，位于湖北省武汉市中心城区东部，是国家AAAAA级旅游景区、全国文明风景旅游区示范点、首批国家重点风景名胜区。2016年12月28日开通运营世界级绿道——东湖绿道，总长101.98公里，为国内最长5A级城市核心区环湖绿道。2020年8月18日，武汉东湖风景区“东湖之眼”摩天轮正式对外开放。"
+
+        },
+        "geometry": { "type": "Point", "coordinates": [114.37468,30.57187] }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "黄鹤楼·武汉长江大桥",
+          "level": 3,
+          "id": "10002",
+          "homepage":"http://www.cnhhl.com/index.php/list-60.html",
+          "imgurl":"http://www.cnhhl.com/Uploads/201708/599655645b761.jpg",
+          "introduce":"黄鹤楼，位于湖北省武汉市武昌区，地处蛇山之巅，濒临万里长江，为武汉市地标建筑；始建于三国吴黄武二年（223年），历代屡加重修，现存建筑以清代“同治楼”为原型设计，重建于1985年；因唐代诗人崔颢登楼所题《黄鹤楼》一诗而名扬四海。自古有“天下绝景”之美誉，与晴川阁、古琴台并称为“武汉三大名胜”，与湖南岳阳岳阳楼、江西南昌滕王阁并称为“江南三大名楼”，是“武汉十大景”之首、“中国古代四大名楼”之一、“中国十大历史文化名楼”之一，世称'天下江山第一楼'"
+        },
+        "geometry": { "type": "Point", "coordinates": [114.306225, 30.543301] }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "湖北省博物馆",
+          "level": 4,
+          "id": "10003",
+          "homepage":"https://www.hbww.org.cn/home/index.html",
+          "imgurl": "http://hbrbapp.hubeidaily.net/640X800_pub_cb20230118160720247096.jpg_a629388db9f64b6fbf837f2ccec5f763.jpg",
+          "introduce":"湖北省博物馆筹建于1953年，坐落于湖北省武汉市武昌区东湖风景区，占地面积81909平方米，建筑面积49611平方米，展厅面积13427平方米，有中国规模最大的古乐器陈列馆。湖北省博物馆是全国八家中央地方共建国家级博物馆之一、国家一级博物馆、出土木漆器保护国家文物局重点科研基地、国家AAAAA级旅游景区，也是湖北省规模最大、藏品最为丰富、科研实力最强的国家级综合性博物馆。"
+        },
+        "geometry": { "type": "Point", "coordinates": [114.36543, 30.56151] }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "武汉市海昌极地海洋世界",
+          "level": 5,
+           "imgurl": "https://www.haichangoceanpark.com/wuhan/wp-content/uploads/sites/10/0d0424028c98fc59be56-400x225.jpg",
+          "id": "10004",
+           "homepage":"https://www.haichangoceanpark.com/wuhan/yuanquditu",
+           "introduce":"武汉海昌极地海洋世界是海昌集团继大连老虎滩极地馆、青岛极地馆、天津极地海洋世界、成都极地海洋世界之后，为布局华中，投资建设的第五座涵盖极地与海洋概念的大型主题公园。"
+       
+
+        },
+        "geometry": { "type": "Point", "coordinates": [114.27784, 30.66387] }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "凤娃古寨",
+          "level": 2,
+          "id": "10005",
+          "imgurl":"http://www.whxinzhou.gov.cn/zjxz/lyxx/lyjd_17434/202004/W020200428467057891432.png",
+          "homepage":"http://www.whfwgz.com/intro/3.html",
+          "introduce":"凤娃古寨景区位于武汉市新洲区凤凰镇，距离武汉中心城区65公里，是一家极具文化特色的国家4A级景区 ，为央视《美丽中国乡村行》栏目专访景区。 景区规划面积3325亩，是集古建展示、民俗体验、古玩交流、非遗传承、休闲度假、国学养生、特色美食、游乐互动为一体；拥有华中地区最大的明清古建筑群落及专题特色博物馆群。景区在传统文化、古建非遗文化及创业励志上有着独特的不可复制的资源。景区拥有乡喜楼、国学堂、陶瓷坊、郭府、陶睿御医、酿酒坊、戏院、四君子园、博雅轩、紫云轩等20余座明清古建筑."
+        },
+        "geometry": { "type": "Point", "coordinates": [114.754501, 30.9107] }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "武汉园博园",
+          "phone": "13915708980",
+          "imgurl":"http://www.hubei.gov.cn/hbfb/rdgz/202202/W020220202337844652194.jpg",
+          "id": "10006",
+          "homepage":"http://whybh2015.hankowli.com.cn/yby/index.php?m=content&c=index&a=lists&catid=21",
+          "introduce":"武汉园博园总面积为213.77公顷，投资40亿，位于湖北省武汉市硚口区张公堤城市森林公园区域西段，硚口、东西湖两区结合部位。园博园北临园博园北路和金银湖南街，南临园博大道和园博园南路，东接金南一路和园博园东路，西临古田二路和园博园西路。离汉口火车站仅3公里，离天河机场约15公里。"
+        },
+        "geometry": { "type": "Point", "coordinates": [114.219391, 30.624586] }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "归元寺",
+          "level": 2,
+          "id": "10007",
+          "homepage":"https://guiyuanchansi.com.cn/",
+           "imgurl":"https://www.guiyuanchansi.com.cn/images/v7/phone/top_banner.jpg",
+           "introduce":"归元禅寺位于湖北省武汉市汉阳区归元寺路，由白光法师于清顺治十五年（公元1658年）兴建。占地153亩，有殿舍200余间，各类佛教经典7000余卷。 [1] 归元禅寺属于佛教禅宗五家七宗之一的曹洞宗，故称归元禅寺。归元禅寺又被称为“汉西一境”，是因其古树参天，花木繁茂的人文境致而得。同时还是武汉市佛教协会的所在地。它与宝通寺、莲溪寺、古德寺合称为武汉的四大丛林。"
+        },
+        "geometry": { "type": "Point", "coordinates": [114.260933, 30.545921] }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "武汉花博汇",
+          "level": 2,
+          "id": "10008",
+          "homepage":"",
+          "imgurl":"http://www.hubei.gov.cn/jmct/ashb/202206/W020220607370792744274.jpg",
+         "introduce":"蔡甸区花博汇景区，位于湖北省武汉市。花博汇景区是蔡甸区中法生态示范城重点建设项目之一，建成有四大主题花海，花域面积达26万平方米，可以保证一年四季鲜花盛开。2021年4月12日，被湖北省人民政府表扬为2020年“与爱同行惠游湖北”活动优质服务景区"
+        },
+        "geometry": { "type": "Point", "coordinates": [114.073593114, 30.488131] }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "蔡甸金龙水寨景区",
+          "level": 2,
+          "id": "10009",
+          "homepage":"",
+          "imgurl":"http://www.hubei.gov.cn/jmct/hbms/wh_9034/201710/W020171011361009249214.jpg",
+          "introduce":"蔡甸金龙水寨，位于湖北省武汉市蔡甸区，是4A级旅游景区。2020年8月7日，湖北省宣布，全省A级旅游景区对全国游客免门票，此次活动从8月8日开始，一直持续到年底，蔡甸金龙水寨位列其中。"
+        },
+        "geometry": { "type": "Point", "coordinates": [114.02919, 30.58203] }
+      }
+    ]
+}
+     
